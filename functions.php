@@ -1,8 +1,9 @@
 <?php
 //session_start();
 
-$bdd_username="root";
-$bdd_password="";
+$bdd_host=getenv('BDD_HOST');
+$bdd_username=getenv('BDD_USER');
+$bdd_password=getenv('BDD_PASS');
 $bdd_dbname="folio";
 
 /***********  php functions ********/
