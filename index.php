@@ -93,7 +93,7 @@ $page=$dir.$page;
 
 
                                                 <li><a><i class="fa fa-lightbulb-o"></i>  Personnels</a></li>
-                                                <li><a href="#"><i class="fa fa-angle-right"></i>  En cours de rédaction...</a></li>
+                                                <li><a href="https://github.com/gwendal-orinel"><i class="fa fa-angle-right"></i>  Visiter mon profil Git</a></li>
 
                                             </ul>
                                         </li>
