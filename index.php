@@ -31,8 +31,8 @@ $page=$dir.$page;
     <?php include('header.php'); ?>
 </head>
 <body style="background-color: #FAFAFA; ">
-    <div class="container">
-        <div class="col-sm-12 m-b-lg" style="margin-top: 10px;">
+    <div class="container-fluid">
+        <div class="col-sm-10 col-sm-offset-1 m-b-lg" style="margin-top: 10px;">
             <div class="panel panel-default panel-profile m-b-0">
                 <div class="panel-heading2" style="background-image: url(src/background.jpg);"></div>
                 <div class="panel-body text-center" style="margin-bottom:-20px">
