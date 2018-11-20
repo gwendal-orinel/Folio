@@ -58,6 +58,7 @@ $page=$dir.$page;
 
                                 <!-- Collect the nav links, forms, and other content for toggling -->
                                 <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1" >
+				  <div class="col-sm-offset-2">
                                     <ul class="nav navbar-nav" >
                                         <li><a href="./"><i class="fa fa-home"></i>  Accueil</a></li>
 
@@ -99,6 +100,7 @@ $page=$dir.$page;
                                         </li>
                                         <li><a href="./veille-technologique-et-liens-utiles"><i class="fa fa-podcast"></i>  Veille technologique</a></li>
                                     </ul>
+				  </div>
                                 </div><!-- /.navbar-collapse -->
                             </div><!-- /.container-fluid -->
                         </div>
